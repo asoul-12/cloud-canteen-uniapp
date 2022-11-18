@@ -8,4 +8,4 @@
 
 **服务端**：https://github.com/asoul-12/cloud-canteen
 
-**小程序**：https://github.com/asoul-12/cloud-canteen-uniapp
+**后台**：https://github.com/asoul-12/cloud-canteen-vue
